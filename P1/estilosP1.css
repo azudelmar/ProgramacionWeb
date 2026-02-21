@@ -1,0 +1,164 @@
+.Titulo{
+    font-size: 30px;
+    color: white;
+    background-color: gold;
+    text-align: center;
+    padding: 1cm;
+}
+
+.Titulo2{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 0.1cm;
+}
+
+.Titulo3{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 0.1cm;
+}
+
+.Titulo4{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 0.1cm;
+}
+
+.Titulo5{
+    font-size: 20px;
+    color: white;
+    background-color: red;
+    text-align: center;
+    padding: 0.1cm;
+}
+
+.Pagina1{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.Pagina2{
+    margin: 0;
+    padding: 0;
+    min-height: 150vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(web-1.jpg);
+    background-size: 100%;
+}
+
+.Pagina3{
+    margin: 0;
+    padding: 0;
+    min-height: 150vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(web2.jpg);
+    background-size: 100%;
+}
+
+.Pagina4{
+    margin: 0;
+    padding: 0;
+    min-height: 150vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(web-3.jpg);
+    background-size: 100%;
+}
+
+.Pagina5{
+    margin: 0;
+    padding: 0;
+    min-height: 150vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(Web-4.jpg);
+    background-size: 100%;
+}
+
+.Menu{
+    background-color: lemonchiffon;
+    padding: 1cm;
+}
+
+.Menu a[href]{
+    color:blue;
+}
+
+.Menu a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.Evo{
+    border: 3px solid black;
+    padding: 5px;
+    display: block;
+    margin: auto;
+}
+
+.Info{
+    background-color: azure;
+    text-align: justify;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    padding: 1cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.foto{
+    border: 3px;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+}
+
+#texto2{
+    background-color: beige;
+    
+}
+
+.Derechos{
+    background-color: black;
+    text-align: center;
+    padding:0.5em;
+    margin-top: auto;
+}
+
+#Integrantes{
+    color: white;
+}
+
+#Miembros{
+    color: white;
+}
+
+.Descarga {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.BotonPDF {
+    background-color: #c0392b;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.BotonPDF:hover {
+    background-color: #922b21;
+}
