@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cartelera.xsl"?>
+<!DOCTYPE cartelera SYSTEM "cartelera.dtd">
+
+<cartelera>
+
+    <pelicula id="P01" duracion="175" clasificacion="R">
+        <titulo>El Padrino</titulo>
+        <director>Francis Ford Coppola</director>
+        <anio>1972</anio>
+        <genero>Drama</genero>
+    </pelicula>
+
+    <pelicula id="P02" duracion="195" clasificacion="PG-13">
+        <titulo>Titanic</titulo>
+        <director>James Cameron</director>
+        <anio>1997</anio>
+        <genero>Romance</genero>
+    </pelicula>
+
+    <pelicula id="P03" duracion="152" clasificacion="PG-13">
+        <titulo>Avengers: Endgame</titulo>
+        <director>Anthony y Joe Russo</director>
+        <anio>2019</anio>
+        <genero>Acción</genero>
+    </pelicula>
+
+    <pelicula id="P04" duracion="146" clasificacion="B-15">
+        <titulo>Bastardos sin gloria</titulo>
+        <director>Quentin Tarantino</director>
+        <anio>2009</anio>
+        <genero>Acción</genero>
+    </pelicula>
+
+    <pelicula id="P05" duracion="116" clasificacion="PG">
+        <titulo>El Rey León</titulo>
+        <director>Roger Allers</director>
+        <anio>1994</anio>
+        <genero>Animación</genero>
+    </pelicula>
+
+</cartelera>

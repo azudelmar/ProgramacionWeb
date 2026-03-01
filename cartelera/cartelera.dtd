@@ -1,0 +1,13 @@
+<!ELEMENT cartelera (pelicula+)>
+
+<!ELEMENT pelicula (titulo, director, anio, genero)>
+
+<!ATTLIST pelicula
+    id CDATA #REQUIRED
+    duracion CDATA #REQUIRED
+    clasificacion CDATA #REQUIRED>
+
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT anio (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
